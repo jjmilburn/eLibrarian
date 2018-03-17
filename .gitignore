@@ -1,0 +1,12 @@
+*.ipynb
+*.pyc
+*.pyo
+.*.swp
+*.sqlite3
+*.txt
+*.patch
+.vimrc
+/build/
+/dist/
+.idea
+.DS_Store
