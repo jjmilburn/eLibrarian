@@ -1,12 +1,14 @@
 # eLibrarian #
 
+**Defunct as of April 2018, repo is archived for future reference.**
+
 The problem this tool attempts to solve is the inability to *quickly* answer
 the question, "Can I check out this book on any the online resources available
 with my library membership?".  Instead of spending 10-20 minutes searching
 each app individually, it should be possible to programatically search all
 legitimate catalogs for a specific title, author, or keyword.
 
-As of March 2018, this project targets the sources:
+As of March 2018, initial targets include:
 
 * Hoopla
 * RBDigital
